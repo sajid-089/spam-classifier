@@ -1,4 +1,4 @@
-# Task 1: Email Spam Classification
+#Email Spam Classification
 
 ## Objective
 Build a machine learning model that reads an email or SMS message and
